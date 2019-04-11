@@ -40,7 +40,7 @@
 
 ちなみに筆者環境では以下のような配色にしています。
 
-![design_sample.jpg](img/design_sample.jpg.jpg)
+![design_sample.jpg](img/design_sample.jpg)
 
 ### アウトライン解析の枠を使う
 アウトライン > アウトライン解析の枠 にチェックを入れます。
