@@ -18,13 +18,11 @@
 - 前後の見出しに移動する操作の利用
 
 ### 配色の変更
-設定の対象 > デザイン > 強調表示1～4、行の強調表示1～3、特に強調表示1～2 をお好みの配色に変更してください。
+設定の対象 > デザイン > 強調表示1～4、行の強調表示1～3、をお好みの配色に変更してください。
 
 ![design_emphasis_1](img/design_emphasis_1.jpg)
 
 ![design_emphasis_2](img/design_emphasis_2.jpg)
-
-![design_emphasis_3](img/design_emphasis_3.jpg)
 
 ちなみに対応は次のとおりです。
 
